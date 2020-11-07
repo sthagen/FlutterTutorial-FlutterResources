@@ -52,6 +52,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide/blob/master/README.md) - Animated Selection Slide
 - [Forms in Flutter](https://www.youtube.com/watch?v=2C16OP-xIwU&list=PLaY6YJMqp51ctPHYg1VAZ7wIs30cjhXNC) - Forms in Flutter with Validation Unit Test
 - [Animation in Flutter](https://www.didierboelens.com/2018/06/animations-in-flutter-easy-guide-tutorial/) - Animation in Flutter Easy Guide by [boeledi](https://github.com/boeledi/guillotine)
+- [AWS Amplify](https://docs.amplify.aws/start/q/integration/flutter) - AWS Amplify is an end-to-end solution that enables mobile and front-end web developers to build and deploy secure, scalable full stack applications, powered by [AWS](https://aws.amazon.com/amplify/)
 
 # Advanced
 - [Flutter Bloc](https://pub.dev/packages/flutter_bloc) - A flutter package that helps implementing the bloc architecture by [Felix Angelov](https://github.com/felangel/)
@@ -79,7 +80,8 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Flutter Intro Slider](https://pub.dev/packages/intro_slider) - Flutter Intro Slider is a flutter plugin that helps you make a cool intro for your app
 - [Flutter Rating Bar](https://pub.dev/packages/flutter_rating_bar) - A simple yet fully customizable rating bar for flutter which also include a rating bar indicator, supporting any fraction of rating.
 - [E-Commerece Admin Side](https://github.com/Manthan-tech/E-Commerce_App_Admin_Side) - Flutter + firebase full frontend and backend for managing E-Commerece
-- [E-Commerce App UI](https://github.com/robertodevs/flutter_ecommerce_template) - e-Commerce UI Kit has the goal to help you to save time with the frontend development. You can use this template to build your apps for Android and iOS in Flutter. 
+- [E-Commerce App UI](https://github.com/robertodevs/flutter_ecommerce_template) - e-Commerce UI Kit has the goal to help you to save time with the frontend development. You can use this template to build your apps for Android and iOS in Flutter.  
+- [Trending Headlines](https://github.com/sainiteshb/News-App-Flutter) - Trending Headlines using the NewsAPI to fetch latest data
 
 # Youtube Channels<a name="ytChannels"></a>
 
