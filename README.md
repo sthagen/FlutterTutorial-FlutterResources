@@ -30,12 +30,14 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Flutter Basics](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) - Youtube playlist that teaches the basics and uses the learned knowledge to create a Time app
 - [Http Requests](https://medium.com/swlh/how-to-make-http-requests-in-flutter-d12e98ee1cef) - A medium article teaching how to make http requests to a server
 - [Awesome Flutter Talk](https://github.com/Rahiche/awesome-flutter-talks) - is an Github repo that save a list of Youtube url about Flutter Talk from 2011 to 2020
+- [Beginner's Guide](https://github.com/antz22/ultimate-guide-to-flutter) Comprehensive guide to the basics of Flutter and Firebase
 
 # Beginner
 
 - [Widget of the Week](https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG) - Introducing new widgets every week by [Flutter](https://www.youtube.com/c/flutterdev)
 - [Roadmap to Flutter Development](https://github.com/olexale/flutter_roadmap) - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale)
 - [Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e) - Extensive examples of layout widgets by [Tomek Polański](https://github.com/tomaszpolanski)
+- [Angela Yu's Flutter Beginner's Course](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)
 
 # Intermediate
 
@@ -61,7 +63,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Flutter Hooks](https://pub.dev/packages/flutter_hooks) - Hooks are a new kind of object that manages a Widget life-cycles. They exist for one reason: increase the code-sharing between widgets by removing duplicates by [dash-overflow.net](https://pub.dev/publishers/dash-overflow.net/packages). A Flutter implementation of React hooks.
 - [Immutable Data Patterns in Dart and Flutter](https://dart-academy.cdn.ampproject.org/c/s/dart.academy/immutable-data-patterns-in-dart-and-flutter/amp/) - Immutable Data Patterns in Dart and Flutter
 - [Slivers](https://medium.com/swlh/flutter-slivers-and-customscrollview-1aaadf96e35a) - A medium article explaining what Slivers are and how to use them.
-
+- [Stacked](https://www.filledstacks.com/post/flutter-state-management-with-stacked/) - A video (plus article) on the use of Stacked for architecture and state management.
 # UI Kit<a name="uiKit"></a>
 
 - [Flutter Screens](https://github.com/samarthagarwal/FlutterScreens) - Collection of nice flutter samples.
@@ -119,7 +121,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [London App Brewery](https://www.youtube.com/channel/UCVD5Vh9LhLBxp3o1vRNyf_w) - The best channel to learn Flutter.
 - [Hitesh Choudhary](https://www.youtube.com/playlist?list=PLRAV69dS1uWT_JKom7xDKdHl1gp3o_AH1) - A great playlist to learn Bloc.
 - [Tech with Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-knQWGK2IC49Q_5AnQrFpzv) - Great tutorials for beginners.
-
+- [Abhishvek](https://www.youtube.com/channel/UCIxJGxcB4pSrIvuv8FyuqUA) - This channel is great for those who wants to start with custom backend for Flutter.
 # Books<a name="books"></a>
 
 - [Flutter Complete Reference](https://fluttercompletereference.com/) - Complete reference to Flutter developement, including examples.
